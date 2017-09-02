@@ -1,0 +1,38 @@
+{% load staticfiles %}
+    <html>
+        <head>
+            <title>Django Girls blog</title>
+            <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+            <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+            <link rel="stylesheet" href="{% static 'css/blog.css' %}">
+            <link href="https://fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+        </head>
+        <body>
+          <div class="page-header">
+        <h1><a href="/">Django Girls Blog</a></h1>
+        </div>
+
+<img src= "https://dal.objectstorage.open.softlayer.com/v1/AUTH_46b30cbfa42a44d2b78b111e16898caf/WordPress/wp-content/uploads/2017/08/9a7d/DjangoGirls_CodeLikeAGirl.jpg" alt="Logotipo APR2">
+
+
+      <img src="http://static.tumblr.com/b54f9765b01fce77ec21b6e506999912/cubpvsr/4qMn7b3lp/tumblr_static_1ag5maqqtuqs480kgg0kwc48s.png" alt="Logotipo APR2">
+
+  <img src="https://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/5771/small/1433509547/django-girls-pixel-heart.png" alt="Logotipo APR2">
+        <div class="content container">
+                <div class="row">
+                    <div class="col-md-8">
+                        {% for post in posts %}
+                            <div class="post">
+                                <div class="date">
+                                    {{ post.published_date }}
+                                </div>
+                                <h1><a href="">{{ post.title }}</a></h1>
+                                <p>{{ post.text|linebreaksbr }}</p>
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+
+        </body>
+    </html>
