@@ -7,27 +7,30 @@ Ayuda y siguientes pasos de la guía:
 
 Sala de chat para consultas sobre problemas al realizar la guía: https://gitter.im/DjangoGirls/tutorial?source=orgpage
 
-https://tutorial.djangogirls. org/es/whats_next/
+https://tutorial.djangogirls.org/es/whats_next/
 
-https://djangogirls.gitbooks. io/django-girls-tutorial- extensions/content/
+https://djangogirls.gitbooks.io/django-girls-tutorial- extensions/content/
 
-https://docs.djangoproject. com/en/1.8/intro/tutorial01/
+https://docs.djangoproject.com/en/1.8/intro/tutorial01/
 
 
 
 Links para seguir aprendiendo:
 
-POO: http://www.headfirstlabs.com/ books/hfjava/
+POO:
+http://www.headfirstlabs.com/books/hfjava/
 Git
-Git book in ES
-https://try.github.io/levels/ 1/challenges/1
+Git book in ES: https://git-scm.com/book/es/v1
+https://try.github.io/levels/1/challenges/1
 
 
 HTML y CSS
 Learn HTML in Codeacademy
 Learn CSS in Codeacademy
 Learn HTML and CSS in 14 days - iLoveCoding
+
 Learn HTML and CSS.org
+
 Learn to Code HTML and CSS
 HTML Tutorials in W3school
 HTML course in Solo Learn
