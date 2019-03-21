@@ -3,99 +3,96 @@ EVENTO djangogirls
 https://tutorial.djangogirls.org/es/whats_next/
 
 
-Ayuda y siguientes pasos de la guía:
+<b>Ayuda y siguientes pasos de la guía:</b>
 
-Sala de chat para consultas sobre problemas al realizar la guía: https://gitter.im/DjangoGirls/tutorial?source=orgpage
+&bull; Sala de chat para consultas sobre problemas al realizar la guía: https://gitter.im/DjangoGirls/tutorial?source=orgpage
 
-https://tutorial.djangogirls.org/es/whats_next/
+&bull; https://tutorial.djangogirls.org/es/whats_next/
 
-https://djangogirls.gitbooks.io/django-girls-tutorial- extensions/content/
+&bull; https://djangogirls.gitbooks.io/django-girls-tutorial-extensions/content/
 
-https://docs.djangoproject.com/en/1.8/intro/tutorial01/
+&bull; https://docs.djangoproject.com/en/1.8/intro/tutorial01/
 
 
 
-Links para seguir aprendiendo:
+<b>Links para seguir aprendiendo:</b>
 
 POO:
-http://www.headfirstlabs.com/books/hfjava/
+&bull; http://www.headfirstlabs.com/books/hfjava/
 
 Git
-Git book in ES: https://git-scm.com/book/es/v1
+&bull; Git book in ES: https://git-scm.com/book/es/v1
 
-https://try.github.io/levels/1/challenges/1
+&bull; https://try.github.io/levels/1/challenges/1
 
-HTML y CSS
+<b>HTML y CSS</b>
 
 &bull; Learn HTML in Codeacademy
 
 &bull; Learn CSS in Codeacademy
 
-Learn HTML and CSS in 14 days - iLoveCoding
+&bull; Learn HTML and CSS in 14 days - iLoveCoding
 
-Learn HTML and CSS.org
+&bull; Learn HTML and CSS.org
 
-Learn to Code HTML and CSS
+&bull; Learn to Code HTML and CSS
 
-HTML Tutorials in W3school
+&bull; HTML Tutorials in W3school
 
-HTML course in Solo Learn
+&bull; HTML course in Solo Learn
 
-CSS Diner (el mejor recurso para aprender selectores CSS)
+&bull; CSS Diner (el mejor recurso para aprender selectores CSS)
 
-Intro HTML y CSS Udacity
+&bull; Intro HTML y CSS Udacity
 
-Learn HTML y CSS
+&bull; Learn HTML y CSS
 
-Best Practices for HTML and CSS
+&bull; Best Practices for HTML and CSS
 
-HTML y CSS Khanacademy
-
-
-
-Feminismo
-
-Historia del feminismo: http://www.mujeresenred.net/spip.php?article1397
-
-Libro: Feminism is for everybody, Bell Hooks.
-
-Libro: Todos deberíamos ser feministas, Chimamanda Ngozi Adichie.
-
-Libro: Teoría King Kong, Virginie Despentes.
-
-Libro: El Segundo Sexo, Simone de Beauvoir.
-
-Libro: Feminismos populares: pedagogías y políticas, Claudia Korol (compiladora).
-
-Mapa de femicidios por país: http://www.bbc.com/mundo/noticias-america-latina-37828573
+&bull; HTML y CSS Khanacademy
 
 
-Casos de femicidio en Ecuador:
+
+<b>Feminismo</b>
+
+&bull; Historia del feminismo: http://www.mujeresenred.net/spip.php?article1397
+
+&bull; Libro: Feminism is for everybody, Bell Hooks.
+
+&bull; Libro: Todos deberíamos ser feministas, Chimamanda Ngozi Adichie.
+
+&bull; Libro: Teoría King Kong, Virginie Despentes.
+
+&bull; Libro: El Segundo Sexo, Simone de Beauvoir.
+
+&bull; Libro: Feminismos populares: pedagogías y políticas, Claudia Korol (compiladora).
+
+&bull; Mapa de femicidios por país: http://www.bbc.com/mundo/noticias-america-latina-37828573
+
+&bull; Casos de femicidio en Ecuador:
 
 http://www.eluniverso.com/noticias/2017/01/24/nota/6014020/casos-femicidos-ecuador-se-han-duplicado-2017-segun-dinased
 
-Equidad laboral: http://www.andes.info.ec/es/noticias/mujeres-luchan-equidad-laboral-ecuador.html
+&bull; Equidad laboral: http://www.andes.info.ec/es/noticias/mujeres-luchan-equidad-laboral-ecuador.html
 
-ONU Mujeres : http://www.unwomen.org/es
+&bull; ONU Mujeres : http://www.unwomen.org/es
 
-Violencia contra la mujer : http://www.unwomen.org/es/what-we-do/ending-violence-against-women/facts-and-figures#note
+&bull; Violencia contra la mujer : http://www.unwomen.org/es/what-we-do/ending-violence-against-women/facts-and-figures#note
 
-Participación política de la mujer:
+&bull; Participación política de la mujer: http://www.unwomen.org/es/ what-we-do/leadership-and- political-participation/facts- and-figures
 
-http://www.unwomen.org/es/ what-we-do/leadership-and- political-participation/facts- and-figures
-
-Acerca de las leyes machistas que han existido éstos últimos años en Ecuador: http://elecciones2017.gkillcity.com/2017/02/03/leyes-machistas-en-ecuador/
+&bull; Acerca de las leyes machistas que han existido éstos últimos años en Ecuador: http://elecciones2017.gkillcity.com/2017/02/03/leyes-machistas-en-ecuador/
 
 
-Documentales
+<b>Documentales</b>
 
-She’s beautiful when she’s angry
+&bull; She’s beautiful when she’s angry
 
-Miss Representation:  sobre la representación de la mujer en los medios
+&bull; Miss Representation:  sobre la representación de la mujer en los medios
 
-The mask you live in
+&bull; The mask you live in
 
-La hija de la India
+&bull; La hija de la India
 
-El me llamó Malala
+&bull; El me llamó Malala
 
