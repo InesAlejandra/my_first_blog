@@ -55,7 +55,7 @@ HTML y CSS Khanacademy
 
 Feminismo
 
-Historia del feminismo: http://www.mujeresenred.net/ spip.php?article1397
+Historia del feminismo: http://www.mujeresenred.net/spip.php?article1397
 
 Libro: Feminism is for everybody, Bell Hooks.
 
@@ -67,23 +67,24 @@ Libro: El Segundo Sexo, Simone de Beauvoir.
 
 Libro: Feminismos populares: pedagogías y políticas, Claudia Korol (compiladora).
 
-Mapa de femicidios por país: http://www.bbc.com/mundo/ noticias-america-latina- 37828573
+Mapa de femicidios por país: http://www.bbc.com/mundo/noticias-america-latina-37828573
+
 
 Casos de femicidio en Ecuador:
 
-http://www.eluniverso.com/ noticias/2017/01/24/nota/ 6014020/casos-femicidos- ecuador-se-han-duplicado-2017- segun-dinased
+http://www.eluniverso.com/noticias/2017/01/24/nota/6014020/casos-femicidos-ecuador-se-han-duplicado-2017-segun-dinased
 
-Equidad laboral: http://www.andes.info.ec/es/ noticias/mujeres-luchan- equidad-laboral-ecuador.html
+Equidad laboral: http://www.andes.info.ec/es/noticias/mujeres-luchan-equidad-laboral-ecuador.html
 
 ONU Mujeres : http://www.unwomen.org/es
 
-Violencia contra la mujer : http://www.unwomen.org/es/ what-we-do/ending-violence- against-women/facts-and- figures#note
+Violencia contra la mujer : http://www.unwomen.org/es/what-we-do/ending-violence-against-women/facts-and-figures#note
 
 Participación política de la mujer:
 
 http://www.unwomen.org/es/ what-we-do/leadership-and- political-participation/facts- and-figures
 
-Acerca de las leyes machistas que han existido éstos últimos años en Ecuador: http://elecciones2017. gkillcity.com/2017/02/03/ leyes-machistas-en-ecuador/
+Acerca de las leyes machistas que han existido éstos últimos años en Ecuador: http://elecciones2017.gkillcity.com/2017/02/03/leyes-machistas-en-ecuador/
 
 
 Documentales
