@@ -5,7 +5,7 @@ https://tutorial.djangogirls.org/es/whats_next/
 
 Ayuda y siguientes pasos de la guía:
 
-Sala de chat para consultas sobre problemas al realizar la guía: https://gitter.im/DjangoGirls/ tutorial?source=orgpage
+Sala de chat para consultas sobre problemas al realizar la guía: https://gitter.im/DjangoGirls/tutorial?source=orgpage
 
 https://tutorial.djangogirls. org/es/whats_next/
 
