@@ -27,9 +27,9 @@ https://try.github.io/levels/1/challenges/1
 
 HTML y CSS
 
-Learn HTML in Codeacademy
+&bull; Learn HTML in Codeacademy
 
-Learn CSS in Codeacademy
+&bull; Learn CSS in Codeacademy
 
 Learn HTML and CSS in 14 days - iLoveCoding
 
